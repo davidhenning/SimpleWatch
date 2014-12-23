@@ -1,0 +1,19 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "madcat.me@gmail.com",
+    "longName": "SimpleWatch",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "shortName": "SmplWtch",
+    "uuid": "75dfe954-76b3-4fb5-8205-1e3fa5e40d92",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
